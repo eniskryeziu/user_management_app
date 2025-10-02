@@ -5,37 +5,45 @@
 
 import { Platform } from 'react-native';
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
-
+//'#3b82f6'
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+    primary: '#0d2140ff',
+    secondary: '#8b5cf6',
+    background: '#f8fafc',
+    card: '#ffffff',
+    text: '#0f172a',
+    textSecondary: '#64748b',
+    textTertiary: '#94a3b8',
+    border: '#e2e8f0',
+    inputBackground: '#f1f5f9',
+    placeholder: '#94a3b8',
+    error: '#ef4444',
+    success: '#10b981',
+    warning: '#f59e0b',
   },
   dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
-  },
+    primary: '#7dd3fc',
+    secondary: '#c084fc',
+    background: '#0b0f19',
+    card: '#131a24',
+    text: '#e2e8f0',
+    textSecondary: '#94a3b8',
+    textTertiary: '#64748b',
+    border: '#1e293b',
+    inputBackground: '#1a2230',
+    placeholder: '#475569',
+    error: '#e43953ff',
+    success: '#4ade80',
+    warning: '#facc15',
+  }
 };
 
 export const Fonts = Platform.select({
   ios: {
-    /** iOS `UIFontDescriptorSystemDesignDefault` */
     sans: 'system-ui',
-    /** iOS `UIFontDescriptorSystemDesignSerif` */
     serif: 'ui-serif',
-    /** iOS `UIFontDescriptorSystemDesignRounded` */
     rounded: 'ui-rounded',
-    /** iOS `UIFontDescriptorSystemDesignMonospaced` */
     mono: 'ui-monospace',
   },
   default: {
@@ -51,3 +59,20 @@ export const Fonts = Platform.select({
     mono: "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
   },
 });
+
+export const Spacing = {
+  xs: 4,
+  sm: 8,
+  md: 16,
+  lg: 24,
+  xl: 32,
+  xxl: 40,
+};
+
+export const BorderRadius = {
+  sm: 8,
+  md: 12,
+  lg: 16,
+  xl: 24,
+  full: 9999,
+};
