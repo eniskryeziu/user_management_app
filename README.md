@@ -1,3 +1,11 @@
+![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Home.jpeg?raw=true)
+![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Modal.jpeg?raw=true)
+![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/UserDetails.jpeg?raw=true)
+![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Edit.jpeg?raw=true)
+![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Notification.jpeg?raw=true)
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
