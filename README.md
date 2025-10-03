@@ -1,9 +1,8 @@
-![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Home.jpeg?raw=true)
-![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Modal.jpeg?raw=true)
-![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/UserDetails.jpeg?raw=true)
-![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Edit.jpeg?raw=true)
-![Alt Text](https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Notification.jpeg?raw=true)
-
+<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Home.jpeg?raw=true" alt="Home" height="300">
+<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Modal.jpeg?raw=true" alt="Modal" height="300">
+<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/UserDetails.jpeg?raw=true" alt="UserDetails" height="300">
+<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Edit.jpeg?raw=true" alt="Edit" height="300">
+<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Notification.jpeg?raw=true" alt="Notification" height="300">
 
 
 # Welcome to your Expo app 👋
