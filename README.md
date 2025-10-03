@@ -1,8 +1,11 @@
-<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Home.jpeg?raw=true" alt="Home" height="300">
-<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Modal.jpeg?raw=true" alt="Modal" height="300">
-<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/UserDetails.jpeg?raw=true" alt="UserDetails" height="300">
-<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Edit.jpeg?raw=true" alt="Edit" height="300">
-<img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Notification.jpeg?raw=true" alt="Notification" height="300">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Home.jpeg?raw=true" alt="Home" height="400" width="500">
+  <img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Modal.jpeg?raw=true" alt="Modal" height="400" width="500">
+  <img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/UserDetails.jpeg?raw=true" alt="UserDetails" height="400" width="500">
+  <img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Edit.jpeg?raw=true" alt="Edit" height="400" width="500">
+  <img src="https://github.com/eniskryeziu/user_management_app/blob/main/assets/images/Notification.jpeg?raw=true" alt="Notification" height="400" width="500">
+</div>
+
 
 
 # Welcome to your Expo app 👋
